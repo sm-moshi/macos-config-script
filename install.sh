@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# sm, lk @3pc
+# sm @old company
 
 # Exit on error
 # set -euo pipefail
