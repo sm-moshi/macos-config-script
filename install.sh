@@ -32,7 +32,6 @@ PACKAGES=(
   ssh-copy-id
   speedtest-cli
   docker-compose
-  fzf
   neovim
 )
 
@@ -64,7 +63,7 @@ OPTIONAL_CASKS=(
   visual-studio-code   # code editor
   cyberduck            # sftp/ftp client
   github               # github / git gui client
-  gitkraken            # git kraken client
+  gitkraken            # gitkraken client
   temurin              # jdk 19
   temurin17            # jdk 17
   temurin11            # jdk 11
